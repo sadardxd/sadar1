@@ -1,5 +1,9 @@
-# sadar
-COMMANDS
+Create big file with 1 UID
+
+mbasic free fb and m facebook with apps (WIFI USEABLE)
+# FILE CLONING
+
+This Tool Is File Cloning Free Tools
 
 pkg update && pkg upgrade
 
@@ -11,12 +15,20 @@ pip install requests
 
 pip install mechanize
 
-rm -rf FILE
+ENJOY🥵🔥
 
-git clone https://github.com/sadarxd/FILE
+FOR CLONING
 
-cd FILE
+git clone https://github.com/sadardxd/sadar
+
+cd sadar
+
+python cloning.py
+
+FOR FILE MAKING
+
+git clone https://github.com/sadardxd/sadar
+
+cd sadar
 
 python FILE.py
-
-ENJOY🥵🔥
