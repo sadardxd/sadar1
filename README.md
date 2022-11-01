@@ -19,7 +19,7 @@ ENJOY🥵🔥
 
 FOR CLONING
 
-git clone https://github.com/sadardxd/sadar
+git clone https://github.com/sadardxd/sadar1
 
 cd sadar
 
@@ -27,7 +27,7 @@ python cloning.py
 
 FOR FILE MAKING
 
-git clone https://github.com/sadardxd/sadar
+git clone https://github.com/sadardxd/sadar1
 
 cd sadar
 
